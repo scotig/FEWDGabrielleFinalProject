@@ -1,2 +1,0 @@
-# FEWDGabrielleFinalProject
-Created with CodeSandbox
